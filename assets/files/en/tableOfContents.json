@@ -1,0 +1,34 @@
+{
+  "page0": {
+    "title": "Welcome page",
+    "id": "welcome",
+    "type": "article",
+    "articles": []
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "id": "portfolio",
+    "type": "section",
+    "articles": [
+      {
+        "title": "Game 1",
+        "id": "game1",
+        "type": "article",
+        "articles": []
+      },
+      {
+        "title": "Game 2",
+        "id": "game2",
+        "type": "article",
+        "articles": []
+      }
+    ]
+  },
+  "additional": {
+    "title": "Additional",
+    "id": "additional",
+    "type": "section",
+    "articles": [
+    ]
+  }
+}
