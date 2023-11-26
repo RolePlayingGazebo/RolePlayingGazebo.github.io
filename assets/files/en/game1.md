@@ -1,2 +1,3 @@
-# Game 2
+# Game 1
 
+## The Adventure begins!

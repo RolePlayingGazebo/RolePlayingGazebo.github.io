@@ -21,6 +21,12 @@
         "id": "game2",
         "type": "article",
         "articles": []
+      },
+      {
+        "title": "Game 3",
+        "id": "game3",
+        "type": "article",
+        "articles": []
       }
     ]
   },
